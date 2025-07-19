@@ -1,4 +1,4 @@
-# Peripheral immune signatures of claudin-low breast cancer revealed through PBMC transcriptomics 
+# Integrative transcriptomics reveal peripheral immune signatures of claudin-low breast cancer 
 
 
 ## Author 
