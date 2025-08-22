@@ -1,4 +1,4 @@
-# Peripheral macrophages contribute to the inflammatory microenvironment in claudin-low breast cancer 
+# Peripheral monocytes reflect an inflammatory state in claudin-low breast cancer  
 
 
 ### Author 
